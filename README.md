@@ -6,8 +6,8 @@
 
 ## 과제 중 흥미로웠던 과제
 
-- [DotComGame](./src/week05/DotcomGame.md)
-- [Blackjack](./src/week13/Blackjack.md)
-- [SimpleChat](./src/project/SimpleChat.md)
+- [DotComGame](.src/week05/README.md)
+- [Blackjack](.src/week13/README.md)
+- [SimpleChat](.src/project/README.md)
 
 모든 문제의 저작권은 제 소유가 아니며 과제 소스파일을 참고, 사용하는 것의 모든 책임은 사용자에게 있습니다.
